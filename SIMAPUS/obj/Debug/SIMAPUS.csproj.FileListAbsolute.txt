@@ -1,0 +1,95 @@
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\bin\Debug\SIMAPUS.exe.config
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\bin\Debug\SIMAPUS.exe
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\bin\Debug\SIMAPUS.pdb
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\bin\Debug\MaterialSkin.dll
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\bin\Debug\MySql.Data.dll
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\bin\Debug\Google.Protobuf.dll
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\bin\Debug\ZstdNet.dll
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\bin\Debug\System.Buffers.dll
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\bin\Debug\MySql.Data.xml
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\obj\Debug\SIMAPUS.csproj.AssemblyReference.cache
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\obj\Debug\SIMAPUS.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\obj\Debug\SIMAPUS.exe.config
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\obj\Debug\SIMAPUS.Properties.Resources.resources
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\obj\Debug\SIMAPUS.csproj.GenerateResource.cache
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\obj\Debug\SIMAPUS.csproj.CoreCompileInputs.cache
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\obj\Debug\SIMAPUS.csproj.Up2Date
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\obj\Debug\SIMAPUS.exe
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\obj\Debug\SIMAPUS.pdb
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\obj\Debug\SIMAPUS.Checkout.resources
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\obj\Debug\SIMAPUS.Dashboard.resources
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\obj\Debug\SIMAPUS.Dokter.resources
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\obj\Debug\SIMAPUS.InformasiPasien.resources
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\obj\Debug\SIMAPUS.LaporanCheckout.resources
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\obj\Debug\SIMAPUS.Login.resources
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\obj\Debug\SIMAPUS.Pendaftaran.resources
+C:\Users\dell_\Downloads\ProjectAkhirPBO-master\SIMAPUS\obj\Debug\SIMAPUS.Ruangan.resources
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\bin\Debug\SIMAPUS.exe.config
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\bin\Debug\SIMAPUS.exe
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\bin\Debug\SIMAPUS.pdb
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\bin\Debug\MaterialSkin.dll
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\bin\Debug\MySql.Data.dll
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\bin\Debug\Google.Protobuf.dll
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\bin\Debug\ZstdNet.dll
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\bin\Debug\System.Buffers.dll
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\bin\Debug\MySql.Data.xml
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.csproj.AssemblyReference.cache
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.exe.config
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.Checkout.resources
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.Dashboard.resources
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.Dokter.resources
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.InformasiPasien.resources
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.LaporanCheckout.resources
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.Login.resources
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.Pendaftaran.resources
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.Properties.Resources.resources
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.Ruangan.resources
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.Splashscreen.resources
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.csproj.GenerateResource.cache
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.csproj.CoreCompileInputs.cache
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.csproj.Up2Date
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.exe
+C:\Users\dell_\Downloads\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.pdb
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\bin\Debug\SIMAPUS.exe.config
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\bin\Debug\SIMAPUS.exe
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\bin\Debug\SIMAPUS.pdb
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\bin\Debug\MaterialSkin.dll
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\bin\Debug\MySql.Data.dll
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\bin\Debug\Google.Protobuf.dll
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\bin\Debug\ZstdNet.dll
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\bin\Debug\BouncyCastle.Crypto.dll
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\bin\Debug\Ubiety.Dns.Core.dll
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\bin\Debug\System.Buffers.dll
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\bin\Debug\K4os.Compression.LZ4.dll
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\bin\Debug\K4os.Hash.xxHash.dll
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\bin\Debug\MySql.Data.xml
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.csproj.AssemblyReference.cache
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.csproj.SuggestedBindingRedirects.cache
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.exe.config
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.Checkout.resources
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.Dashboard.resources
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.Dokter.resources
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.InformasiPasien.resources
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.LaporanCheckout.resources
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.Login.resources
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.Pendaftaran.resources
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.Properties.Resources.resources
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.Ruangan.resources
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.Splashscreen.resources
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.csproj.GenerateResource.cache
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.csproj.CoreCompileInputs.cache
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.csproj.Up2Date
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.exe
+D:\Diploma III\Kuliah\Prak. PBO(semester 4)\SIMAPUS\SIMAPUS\obj\Debug\SIMAPUS.pdb
